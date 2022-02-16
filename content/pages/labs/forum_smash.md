@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: b9afd171-0be0-148d-def7-c533aabd9596
 title: Super Smash Bros. Videos
 uid: 947a197f-041a-f80a-3659-061091c3aa71
