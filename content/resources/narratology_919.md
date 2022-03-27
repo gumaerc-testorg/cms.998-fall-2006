@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 867eab12-a035-8558-ba51-f2d86ffab0f7
 resourcetype: Document
 title: narratology_919.pdf
 uid: 486dafe7-2c5d-2668-d1e2-134c39170c23

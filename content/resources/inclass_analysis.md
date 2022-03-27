@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 867eab12-a035-8558-ba51-f2d86ffab0f7
 resourcetype: Document
 title: inclass_analysis.pdf
 uid: d6b8434f-25d1-d0db-34ad-10e22d01a47e

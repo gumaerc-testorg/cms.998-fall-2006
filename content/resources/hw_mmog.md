@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f88ff982-4108-931f-2c36-fedd8da3601b
 resourcetype: Document
 title: hw_mmog.pdf
 uid: e9f118a3-7a9b-f77f-0090-29831e965b69

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f88ff982-4108-931f-2c36-fedd8da3601b
 resourcetype: Document
 title: midterm_essay.pdf
 uid: fec127fe-034f-d84d-a9f0-0dc555a8ff6d

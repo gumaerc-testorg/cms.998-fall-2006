@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f88ff982-4108-931f-2c36-fedd8da3601b
 resourcetype: Document
 title: firstday_grigsby.pdf
 uid: b4803e12-1812-8ec1-d709-427d6d5144c9

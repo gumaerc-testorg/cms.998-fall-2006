@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 9a094e84-8678-25bc-f7d3-718dadfafc2b
 resourcetype: Document
 title: evaluationsheet.pdf
 uid: ac5a240d-15ad-1c9e-655a-c782043ac012

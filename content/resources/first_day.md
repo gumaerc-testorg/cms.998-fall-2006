@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f88ff982-4108-931f-2c36-fedd8da3601b
 resourcetype: Document
 title: first_day.pdf
 uid: 2d1694aa-741a-c5c6-f140-03ce6c0f6ce2
