@@ -6,6 +6,7 @@ file: /courses/cms-998-videogame-theory-and-analysis-fall-2006/b4803e1218128ec1d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: firstday_grigsby.pdf
 uid: b4803e12-1812-8ec1-d709-427d6d5144c9
 ---
 This resource contains information about how Mainstream media and cultural studies typically associate video games with adolescence.
-

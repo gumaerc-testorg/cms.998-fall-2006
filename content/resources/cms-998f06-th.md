@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: Photo of three students working on a handheld videogame.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: cms-998f06-th.jpg
 uid: fc4d68b6-c0af-ed8a-43de-aeff9ff5b7da
 ---
 New image Upload
-
