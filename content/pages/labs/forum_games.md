@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: b9afd171-0be0-148d-def7-c533aabd9596
 title: What Games are you Playing
 uid: 15944a93-daf6-3c05-bee0-056d95a9361a
