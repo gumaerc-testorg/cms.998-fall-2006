@@ -11,16 +11,16 @@ Lab sessions did not follow a concrete week-to-week schedule. The sessions were 
 
 Lab time was also devoted to some student presentations on game analysis.
 
-Game Analysis and Presentation Guidelines ([PDF]({{< baseurl >}}/resources/lab_assignment))
+Game Analysis and Presentation Guidelines ({{% resource_link 82be6d46-4d6d-c4cb-6242-67c6a55c659a "PDF" %}})
 
 Discussion Forum
 ----------------
 
 In addition to substantial in-class discussion, many conversations took place in an online discussion forum. Here's two samples of such discussions.
 
-[What games are you playing?]({{< baseurl >}}/pages/labs/forum_games)
+{{% resource_link 15944a93-daf6-3c05-bee0-056d95a9361a "What games are you playing?" %}}
 
-[Super Smash Bros. Videos]({{< baseurl >}}/pages/labs/forum_smash)
+{{% resource_link 947a197f-041a-f80a-3659-061091c3aa71 "Super Smash Bros. Videos" %}}
 
 Games Played by the Class
 -------------------------

@@ -121,7 +121,7 @@ Narratology and Ludology
 {{< tdopen >}}
 
 
-Frasca, Gonzalo. "Simulation versus Narrative: Introduction to Ludology." In _Video/Game/Theory_. Edited by Mark J. P. Wolf and Bernard Perron. New York, NY: Routledge, 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ludology.org/articles/VGT_final.pdf))
+Frasca, Gonzalo. "Simulation versus Narrative: Introduction to Ludology." In _Video/Game/Theory_. Edited by Mark J. P. Wolf and Bernard Perron. New York, NY: Routledge, 2003. ([PDF](http://ludology.org/articles/VGT_final.pdf))
 
 Juul, Jesper. "[Games Telling Stories](http://www.gamestudies.org/0101/juul-gts/)?"
 
@@ -151,11 +151,11 @@ MMOGs
 
 Taylor, T. L. "Gaming Lifeworlds: Social Play in Persistent Environments."
 
-Yee, Nick. "The Psychology of MMORPGs: Emotional Investment, Motivations, Relationship Formation, and Problematic Usage." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nickyee.com/pubs/Yee%20-%20MMORPG%20Psychology%20(2006).pdf))
+Yee, Nick. "The Psychology of MMORPGs: Emotional Investment, Motivations, Relationship Formation, and Problematic Usage." ([PDF](http://www.nickyee.com/pubs/Yee%20-%20MMORPG%20Psychology%20(2006).pdf))
 
 Ducheneaut, N., N. Yee, E. Nickell, and R. J. Moore. "Building an MMO With Mass Appeal: A Look at Gameplay in World of Warcraft." _Games and Culture_ 1, no. 4 (October 2006): 281-317.
 
-Steinkuehler, C. A. "Massively Multiplayer Online Videogaming as Participation in a Discourse." _Mind, Culture, and Activity_ 13, no. 1 (2006): 38-52. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.503.5067&rep=rep1&type=pdf))
+Steinkuehler, C. A. "Massively Multiplayer Online Videogaming as Participation in a Discourse." _Mind, Culture, and Activity_ 13, no. 1 (2006): 38-52. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.503.5067&rep=rep1&type=pdf))
 
 Castronova, Edward. "Virtual Worlds: A First-Hand Account of Market and Society on the Cyberian Frontier." In _S&Z_. 2001.
 
@@ -297,7 +297,7 @@ Squire, Kurt. "Game-Based Learning: Present and Future State of the Field." _Rep
 
 Gee, Jim. "Semiotic Domains: Is Playing Video Games a "Waste of Time?"." In _S&Z_. 2003.
 
-Steinkuehler, C. A. "Cognition and Literacy in Massively Multiplayer Online Games." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.learntechlib.org/p/125474/))
+Steinkuehler, C. A. "Cognition and Literacy in Massively Multiplayer Online Games." ([PDF](https://www.learntechlib.org/p/125474/))
 
 [Innovate, Aug/Sep 2005 Special Issue](https://nsuworks.nova.edu/innovate/vol1/iss6/)
 
@@ -335,7 +335,7 @@ Kennedy, Helen. "[On the Limits of Textual Analysis](http://www.gamestudies.org/
 
 Jenkins, Henry. ""Complete Freedom of Movement": Video Games as Gendered Play Spaces." In _S&Z_. 1998.
 
-Hayes, Elisabeth. "Women and Video Gaming: Gendered Identities at Play." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.academiccolab.org/resources/documents/gender_and_morrowind.pdf))
+Hayes, Elisabeth. "Women and Video Gaming: Gendered Identities at Play." ([PDF](http://www.academiccolab.org/resources/documents/gender_and_morrowind.pdf))
 
 Consalvo, Mia. "[It's a Queer World After All: Studying The Sims and Sexuality](http://www.academia.edu/654441/Its_a_queer_world_after_all_Studying_The_Sims_and_sexuality)."
 
@@ -407,7 +407,7 @@ Game Cultures and Identities
 
 Raessens, Joost. "Computer Games as Participatory Media Culture."
 
-McGonigal, Jane. "'This Is Not a Game': Immersive Aesthetics and Collective Play." Presented at MelbourneDAC (Digital Arts and Culture) 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://janemcgonigal.files.wordpress.com/2010/12/mcgonigal-jane-this-is-not-a-game.pdf))
+McGonigal, Jane. "'This Is Not a Game': Immersive Aesthetics and Collective Play." Presented at MelbourneDAC (Digital Arts and Culture) 2003. ([PDF](https://janemcgonigal.files.wordpress.com/2010/12/mcgonigal-jane-this-is-not-a-game.pdf))
 
 Turkle, Sherry. "Computer Games as Evocative Objects." (Materials)
 
@@ -441,9 +441,9 @@ Videogame Criticism
 
 Rouse, Richard. "Game Analysis: Centipede." In _S&Z_. 2001.
 
-Squire, Kurt. "Educating the Fighter: Buttonmashing, Seeing, Being." _On the Horizon_ 13, no. 2 (2005): 75-88. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.academiccolab.org/resources/documents/educating-the-fighterv3.pdf))
+Squire, Kurt. "Educating the Fighter: Buttonmashing, Seeing, Being." _On the Horizon_ 13, no. 2 (2005): 75-88. ([PDF](http://www.academiccolab.org/resources/documents/educating-the-fighterv3.pdf))
 
-Gingold, Chaim. "What WarioWare Can Teach Us About Game Design." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.academiccolab.org/resources/documents/educating-the-fighterv3.pdf))
+Gingold, Chaim. "What WarioWare Can Teach Us About Game Design." ([PDF](http://www.academiccolab.org/resources/documents/educating-the-fighterv3.pdf))
 
 Bogost, Ian. "Comparative Video Game Criticism." _Games and Culture_ 1, no. 1 (January 2006): 41-46.
 

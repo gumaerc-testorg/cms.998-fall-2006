@@ -27,19 +27,19 @@ SUPPLEMENTAL FILES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-1: Choosing a Game ([PDF]({{< baseurl >}}/resources/first_day))
+1: Choosing a Game ({{% resource_link 2d1694aa-741a-c5c6-f140-03ce6c0f6ce2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 At Lec #3
 {{< tdclose >}}
 {{< tdopen >}}
-Example Paper by Neal Grigsby ([PDF]({{< baseurl >}}/resources/firstday_grigsby)) (Courtesy of Neal Grigsby. Used with permission.)
+Example Paper by Neal Grigsby ({{% resource_link b4803e12-1812-8ec1-d709-427d6d5144c9 "PDF" %}}) (Courtesy of Neal Grigsby. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-2: MMOGs Essay ([PDF]({{< baseurl >}}/resources/hw_mmog))
+2: MMOGs Essay ({{% resource_link e9f118a3-7a9b-f77f-0090-29831e965b69 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 One day after Lec #7
@@ -51,7 +51,7 @@ One day after Lec #7
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-3: Midterm Essay ([PDF]({{< baseurl >}}/resources/midterm_essay))
+3: Midterm Essay ({{% resource_link fec127fe-034f-d84d-a9f0-0dc555a8ff6d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Nine days after Lec #8

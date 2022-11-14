@@ -77,7 +77,7 @@ Class Participation
 
 I value oral participation and your development as an oral contributor just as much as I do your written work. Each class period, I will ask you to self-evaluate based on the following criteria.
 
-Evaluation Sheet and Guidelines ([PDF]({{< baseurl >}}/resources/evaluationsheet))
+Evaluation Sheet and Guidelines ({{% resource_link ac5a240d-15ad-1c9e-655a-c782043ac012 "PDF" %}})
 
 You are welcome to provide a few details (i.e., you asked a discussion - generating question, you made a significant point, you cited details from the class readings) to help support your self-evaluation. Evaluations will be handed in at the end of each class period to the TA. She will reflect on your evaluation and provide a final score for that class period.
 

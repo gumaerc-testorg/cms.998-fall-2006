@@ -12,17 +12,17 @@ This page presents materials associated with several of the class lecture sessio
 Lec #2
 ------
 
-In-class Writing Exercise: Definition of Games ([PDF]({{< baseurl >}}/resources/definitions_912))
+In-class Writing Exercise: Definition of Games ({{% resource_link c180a4bd-6399-aefb-b749-63c1f048b7e5 "PDF" %}})
 
 Lec #4
 ------
 
-Narratology & Ludology Group Exercise ([PDF]({{< baseurl >}}/resources/narratology_919))
+Narratology & Ludology Group Exercise ({{% resource_link 486dafe7-2c5d-2668-d1e2-134c39170c23 "PDF" %}})
 
 Lec #19
 -------
 
-In-class Analysis of Difference and Diversity ([PDF]({{< baseurl >}}/resources/inclass_analysis))
+In-class Analysis of Difference and Diversity ({{% resource_link d6b8434f-25d1-d0db-34ad-10e22d01a47e "PDF" %}})
 
 Lec #20
 -------
