@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains the clarification for the first assignment.
-file: /courses/cms-998-videogame-theory-and-analysis-fall-2006/730fd296a3e8ddf6e5167b987c8ad095_first_day_2.pdf
+file: /ol-ocw-studio-app/courses/cms-998-videogame-theory-and-analysis-fall-2006/730fd296a3e8ddf6e5167b987c8ad095_first_day_2.pdf
+file_size: 15985
 file_type: application/pdf
 learning_resource_types:
 - Assignments

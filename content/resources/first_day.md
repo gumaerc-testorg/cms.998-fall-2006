@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains the first assignment.
-file: /courses/cms-998-videogame-theory-and-analysis-fall-2006/2d1694aa741ac5c6f14003ce6c0f6ce2_first_day.pdf
+file: /ol-ocw-studio-app/courses/cms-998-videogame-theory-and-analysis-fall-2006/2d1694aa741ac5c6f14003ce6c0f6ce2_first_day.pdf
+file_size: 26968
 file_type: application/pdf
 learning_resource_types:
 - Assignments

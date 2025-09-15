@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This section contains the In-class Analysis of a couple of games.
-file: /courses/cms-998-videogame-theory-and-analysis-fall-2006/d6b8434f25d1d0db34ad10e22d01a47e_inclass_analysis.pdf
+file: /ol-ocw-studio-app/courses/cms-998-videogame-theory-and-analysis-fall-2006/d6b8434f25d1d0db34ad10e22d01a47e_inclass_analysis.pdf
+file_size: 18723
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
