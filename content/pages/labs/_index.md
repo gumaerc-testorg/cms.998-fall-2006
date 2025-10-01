@@ -77,9 +77,9 @@ Guild Wars Nightfall
 
 Prince of Persia, potentially 1 and 2
 
-[Okami](http://ps2.ign.com/objects/678/678618.html) for PS2
+{{% resource_link "083f597d-025d-4fc4-b16c-53e9fdf2efba" "Okami" %}} for PS2
 
-[Sociolotron](http://www.sociolotron.com/)
+{{% resource_link "877df109-d230-477a-b660-839243b7a49c" "Sociolotron" %}}
 
 Animal Crossing on my DS
 

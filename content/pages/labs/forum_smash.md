@@ -25,7 +25,7 @@ Smash Videos directory
 
 If you want to learn more about the Smash community or if you want some sample combo videos go to:
 
-[Smashboards](http://smashboards.com/)
+{{% resource_link "894b1358-d24f-4bd9-a248-10cd39394990" "Smashboards" %}}
 
 \-Sharat Bhat
 

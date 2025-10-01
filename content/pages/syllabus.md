@@ -46,7 +46,7 @@ Textbooks
 
 ### Required
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262195362) Salen, K., and E. Zimmerman, eds. [_The Game Design Reader_](https://mitpress.mit.edu/9780262195362). Cambridge, MA: MIT Press, 2005. ISBN: 9780262195362.
+{{% resource_link "e4e3e661-328f-48c0-bb96-ea13992a2cba" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Salen, K., and E. Zimmerman, eds. {{% resource_link "e4e3e661-328f-48c0-bb96-ea13992a2cba" "_The Game Design Reader_" %}}. Cambridge, MA: MIT Press, 2005. ISBN: 9780262195362.
 
 Gee, J. P. _Why Videogames Are Good For Your Soul_. New York, NY: Common Ground, 2005. ISBN: 9781863355742.
 
@@ -54,9 +54,9 @@ Readings in these texts will be supplemented by other reading assignments for ea
 
 ### Recommended
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262182409) Raessens, J., and J. Goldstein, eds. [_The Handbook of Computer Game Studies_](https://mitpress.mit.edu/9780262182409). Cambridge, MA: MIT Press, 2005. ISBN: 9780262182409.
+{{% resource_link "ba12e4ef-0742-4eaa-806f-5c346e63dc0a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Raessens, J., and J. Goldstein, eds. {{% resource_link "ba12e4ef-0742-4eaa-806f-5c346e63dc0a" "_The Handbook of Computer Game Studies_" %}}. Cambridge, MA: MIT Press, 2005. ISBN: 9780262182409.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262232326) Wardrip - Fruin, N., and P. Harrigan. [_First Person: New Media as Story, Performance, and Game_](https://mitpress.mit.edu/9780262232326). Cambridge, MA: MIT Press, 2004. ISBN: 9780262232326.
+{{% resource_link "640e4ef6-3c89-4454-a893-b42db76015b1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Wardrip - Fruin, N., and P. Harrigan. {{% resource_link "640e4ef6-3c89-4454-a893-b42db76015b1" "_First Person: New Media as Story, Performance, and Game_" %}}. Cambridge, MA: MIT Press, 2004. ISBN: 9780262232326.
 
 Weekly Details
 --------------
